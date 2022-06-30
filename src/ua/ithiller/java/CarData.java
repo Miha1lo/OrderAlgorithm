@@ -4,5 +4,5 @@ public class CarData {
 
     String name;
     double price;
-    int amount;
+    int amountSalon;
 }

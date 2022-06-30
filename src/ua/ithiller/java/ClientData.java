@@ -4,6 +4,7 @@ public class ClientData {
 
     String name;
     int old;
+    int needCar;
     double money;
-    boolean credit;
+    boolean isCredit;
 }
